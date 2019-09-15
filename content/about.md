@@ -4,7 +4,7 @@
 
 ### Ordanis Sanchez Suero | Python Backed Developer
 
-{{< image src="/img/me.jpg" alt="Hello Friend" style="width: 50%; border-radius: 8px; float:left; padding-right: 1em" >}}
+{{< image src="/img/me.jpg" alt="Hello Friend" style="width: 50%; border-radius: 8px; float:left; padding-right: 1rem; margin-right: 0.1rem" >}}
 Who am I? Well, I'm a guy who loves coding, because it's fun and makes me think.
 Makes me try to solve problems, break down challenges and figure out what's going
 wrong.
